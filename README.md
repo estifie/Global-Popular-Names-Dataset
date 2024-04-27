@@ -152,9 +152,3 @@ website: [https://nodejs.org/](https://nodejs.org/)
 
 We would like to thank Jörg MICHAEL for compiling the original dataset and making it available to the public. We would
 also like to thank the Internet Archive for preserving the dataset and making it accessible to future generations.
-
-## License
-
-The Global Popular Names Dataset is made available under the GNU Free Documentation License, Version 1.2. You are free
-to share and adapt the dataset for any purpose, provided that you give appropriate credit to the original author and
-source. You must also indicate if any changes were made to the dataset.

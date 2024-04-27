@@ -1,0 +1,59 @@
+# Origins
+
+The dataset contains 55 origins. The full list of origins is as follows:
+
+- `Great Britain`
+- `Ireland`
+- `United States`
+- `Italy`
+- `Malta`
+- `Portugal`
+- `Spain`
+- `France`
+- `Belgium`
+- `Luxembourg`
+- `Netherlands`
+- `East Frisia`
+- `Germany`
+- `Austria`
+- `Switzerland`
+- `Iceland`
+- `Denmark`
+- `Norway`
+- `Sweden`
+- `Finland`
+- `Estonia`
+- `Latvia`
+- `Lithuania`
+- `Poland`
+- `Czechia`
+- `Slovakia`
+- `Hungary`
+- `Romania`
+- `Bulgaria`
+- `Bosnia and Herzegovina`
+- `Croatia`
+- `Kosovo`
+- `North Macedonia`
+- `Montenegro`
+- `Serbia`
+- `Slovenia`
+- `Albania`
+- `Greece`
+- `Russia`
+- `Belarus`
+- `Moldova`
+- `Ukraine`
+- `Armenia`
+- `Azerbaijan`
+- `Georgia`
+- `Kazakhstan, Uzbekistan, etc.`
+- `Turkey`
+- `Arabia/Persia`
+- `Israel`
+- `China`
+- `India, Sri Lanka`
+- `Japan`
+- `South Korea`
+- `Vietnam`
+- `Others`

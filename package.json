@@ -1,0 +1,21 @@
+{
+	"name": "global-popular-names-dataset",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"convert": "ts-node src/main.ts"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"csv-writer": "^1.6.0",
+		"winston": "^3.13.0",
+		"yargs": "^17.7.2"
+	},
+	"devDependencies": {
+		"@types/yargs": "^17.0.32"
+	}
+}
